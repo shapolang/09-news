@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="horizon_seed">#FF1565C0</color>
+    <color name="horizon_splash">#FF0D47A1</color>
+    <color name="ic_launcher_background">#FF0D47A1</color>
+    <string name="app_name">星闻 Horizon</string>
+    <string name="demo_account_hint">演示账号 demo@horizon.news / Demo1234</string>
+    <string name="nav_bookmarks">收藏</string>
+    <string name="nav_home">资讯</string>
+    <string name="nav_profile">我的</string>
+    <string name="nav_search">搜索</string>
+    <string name="offline_banner">当前离线，正在展示本地缓存</string>
+    <style name="Theme.HorizonNews" parent="android:Theme.Material.Light.NoActionBar"/>
+    <style name="Theme.HorizonNews.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/horizon_splash</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.HorizonNews</item>
+    </style>
+</resources>

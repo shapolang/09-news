@@ -1,0 +1,71 @@
+com.compose.news.app-ui-test-manifest-1.10.0-0 D:\.gradle\caches\9.2.1\transforms\045f3d9417515d7822d11dd2f7686e68\workspace\transformed\ui-test-manifest-1.10.0\res
+com.compose.news.app-material-icons-extended-release-1 D:\.gradle\caches\9.2.1\transforms\04b17a9b7bf2323d14eb2335dcfb6382\workspace\transformed\material-icons-extended-release\res
+com.compose.news.app-profileinstaller-1.4.0-2 D:\.gradle\caches\9.2.1\transforms\07a7db110264f4b77e5e3bc98033c263\workspace\transformed\profileinstaller-1.4.0\res
+com.compose.news.app-material3-3 D:\.gradle\caches\9.2.1\transforms\0e7949abb6421103190d1a9324c23491\workspace\transformed\material3\res
+com.compose.news.app-activity-1.12.0-4 D:\.gradle\caches\9.2.1\transforms\0e923d56f6d76a12613d9aa2fd85d984\workspace\transformed\activity-1.12.0\res
+com.compose.news.app-lifecycle-viewmodel-ktx-2.10.0-5 D:\.gradle\caches\9.2.1\transforms\0ebe8f6bafcf31274fdc4a2e621fd1ed\workspace\transformed\lifecycle-viewmodel-ktx-2.10.0\res
+com.compose.news.app-tracing-1.2.0-6 D:\.gradle\caches\9.2.1\transforms\1424a20f06fc8c2ee78f7a0a51be0735\workspace\transformed\tracing-1.2.0\res
+com.compose.news.app-ui-7 D:\.gradle\caches\9.2.1\transforms\15ce02eee6283781b91b283688d2dfe2\workspace\transformed\ui\res
+com.compose.news.app-foundation-8 D:\.gradle\caches\9.2.1\transforms\1e04488ea9ddc883fefdf6f669ff0184\workspace\transformed\foundation\res
+com.compose.news.app-datastore-preferences-release-9 D:\.gradle\caches\9.2.1\transforms\1fa297a7e9027336e40d27b518b0a2ab\workspace\transformed\datastore-preferences-release\res
+com.compose.news.app-core-runtime-2.2.0-10 D:\.gradle\caches\9.2.1\transforms\22457a3af51914e7d8b55a59540dfc58\workspace\transformed\core-runtime-2.2.0\res
+com.compose.news.app-savedstate-ktx-1.4.0-11 D:\.gradle\caches\9.2.1\transforms\24c50530de7f031eec67d4582209d02b\workspace\transformed\savedstate-ktx-1.4.0\res
+com.compose.news.app-lifecycle-viewmodel-12 D:\.gradle\caches\9.2.1\transforms\27bef06a6f66d451aed72c74321c77ed\workspace\transformed\lifecycle-viewmodel\res
+com.compose.news.app-savedstate-13 D:\.gradle\caches\9.2.1\transforms\3224217f7452b7685e99d752c0829de6\workspace\transformed\savedstate\res
+com.compose.news.app-paging-common-release-14 D:\.gradle\caches\9.2.1\transforms\32b2aee7f51f3a2068848928c4930939\workspace\transformed\paging-common-release\res
+com.compose.news.app-core-viewtree-1.0.0-15 D:\.gradle\caches\9.2.1\transforms\3b317dcf4bcc1adc85f2814d05279d0b\workspace\transformed\core-viewtree-1.0.0\res
+com.compose.news.app-navigation-common-ktx-2.5.1-16 D:\.gradle\caches\9.2.1\transforms\40b9267b57b098d3d4fc01c67db5b190\workspace\transformed\navigation-common-ktx-2.5.1\res
+com.compose.news.app-hilt-navigation-compose-1.2.0-17 D:\.gradle\caches\9.2.1\transforms\44857c8e24df0f738af6007eda7ec015\workspace\transformed\hilt-navigation-compose-1.2.0\res
+com.compose.news.app-recyclerview-1.2.1-18 D:\.gradle\caches\9.2.1\transforms\44e1eff3e3566c22a540bb23badb77ce\workspace\transformed\recyclerview-1.2.1\res
+com.compose.news.app-startup-runtime-1.1.1-19 D:\.gradle\caches\9.2.1\transforms\4adfc91fa40c067fc6a1683dcfc9ca67\workspace\transformed\startup-runtime-1.1.1\res
+com.compose.news.app-navigation3-runtime-20 D:\.gradle\caches\9.2.1\transforms\4d4d41fceb77082fdebc49e2a3cff96e\workspace\transformed\navigation3-runtime\res
+com.compose.news.app-navigation-common-2.5.1-21 D:\.gradle\caches\9.2.1\transforms\4e6e10c16fe722a97b277248177b847a\workspace\transformed\navigation-common-2.5.1\res
+com.compose.news.app-sqlite-release-22 D:\.gradle\caches\9.2.1\transforms\525210da8f73d567c907fcde7ddf2125\workspace\transformed\sqlite-release\res
+com.compose.news.app-datastore-core-release-23 D:\.gradle\caches\9.2.1\transforms\594d695b0f50ed43585f835b1b5e728c\workspace\transformed\datastore-core-release\res
+com.compose.news.app-core-splashscreen-1.0.1-24 D:\.gradle\caches\9.2.1\transforms\59a43edf599f985298237d281bd99aa3\workspace\transformed\core-splashscreen-1.0.1\res
+com.compose.news.app-runtime-saveable-25 D:\.gradle\caches\9.2.1\transforms\5cc1b0e3372717c053245fa02f6b2e1d\workspace\transformed\runtime-saveable\res
+com.compose.news.app-lifecycle-livedata-core-ktx-2.10.0-26 D:\.gradle\caches\9.2.1\transforms\5d37cb9bb66b38eb0348d34477e1a3ba\workspace\transformed\lifecycle-livedata-core-ktx-2.10.0\res
+com.compose.news.app-datastore-release-27 D:\.gradle\caches\9.2.1\transforms\5e2337b1e03c8922c120d5ec54a52624\workspace\transformed\datastore-release\res
+com.compose.news.app-room-runtime-release-28 D:\.gradle\caches\9.2.1\transforms\6020a91932d8341838e18e0da4517a20\workspace\transformed\room-runtime-release\res
+com.compose.news.app-room-ktx-2.7.1-29 D:\.gradle\caches\9.2.1\transforms\6630d18001b524cbfffab65c619b6247\workspace\transformed\room-ktx-2.7.1\res
+com.compose.news.app-lifecycle-livedata-ktx-2.10.0-30 D:\.gradle\caches\9.2.1\transforms\7896f76ae318cfdcc0afb4ce4a0753b7\workspace\transformed\lifecycle-livedata-ktx-2.10.0\res
+com.compose.news.app-navigation-compose-2.5.1-31 D:\.gradle\caches\9.2.1\transforms\7b1141907f94d8975ea227c887aa59a6\workspace\transformed\navigation-compose-2.5.1\res
+com.compose.news.app-emoji2-1.4.0-32 D:\.gradle\caches\9.2.1\transforms\7efa68b41ca588891a53ee4ee17b26cf\workspace\transformed\emoji2-1.4.0\res
+com.compose.news.app-core-1.17.0-33 D:\.gradle\caches\9.2.1\transforms\880dacbd4d808e728b03b429227ee859\workspace\transformed\core-1.17.0\res
+com.compose.news.app-paging-compose-release-34 D:\.gradle\caches\9.2.1\transforms\8cd3caa8d7e22df8f70fca755d2b8424\workspace\transformed\paging-compose-release\res
+com.compose.news.app-core-ktx-1.17.0-35 D:\.gradle\caches\9.2.1\transforms\8f06ece648c45ed419d576e1b50f703c\workspace\transformed\core-ktx-1.17.0\res
+com.compose.news.app-navigation-runtime-2.5.1-36 D:\.gradle\caches\9.2.1\transforms\8f9814ef65961d6125e76e3e4567da6d\workspace\transformed\navigation-runtime-2.5.1\res
+com.compose.news.app-lifecycle-livedata-2.10.0-37 D:\.gradle\caches\9.2.1\transforms\920e354f11dc5dc88339da164a7a9d1e\workspace\transformed\lifecycle-livedata-2.10.0\res
+com.compose.news.app-sqlite-framework-release-38 D:\.gradle\caches\9.2.1\transforms\923d098b39d5a7eaf7ea27360ac50700\workspace\transformed\sqlite-framework-release\res
+com.compose.news.app-paging-runtime-3.3.6-39 D:\.gradle\caches\9.2.1\transforms\951d0f001b42ea2d15ddb95c4b45e427\workspace\transformed\paging-runtime-3.3.6\res
+com.compose.news.app-paging-runtime-ktx-3.3.6-40 D:\.gradle\caches\9.2.1\transforms\9a0db8e89f2c217c62fe2dd1e2c60903\workspace\transformed\paging-runtime-ktx-3.3.6\res
+com.compose.news.app-transition-1.6.0-41 D:\.gradle\caches\9.2.1\transforms\9c9b7ff5f4823e16c49d86c287adda9f\workspace\transformed\transition-1.6.0\res
+com.compose.news.app-navigation3-ui-42 D:\.gradle\caches\9.2.1\transforms\9d41ef80780a318e6f79aaf21f5a8600\workspace\transformed\navigation3-ui\res
+com.compose.news.app-room-paging-release-43 D:\.gradle\caches\9.2.1\transforms\aa95d779b2726a1d2c984825778679a1\workspace\transformed\room-paging-release\res
+com.compose.news.app-fragment-1.5.1-44 D:\.gradle\caches\9.2.1\transforms\ad7c46cd7e6e8f7d4da4fc43a5cbb90c\workspace\transformed\fragment-1.5.1\res
+com.compose.news.app-customview-poolingcontainer-1.0.0-45 D:\.gradle\caches\9.2.1\transforms\b52952a2733e8bd241a2de4bb444333b\workspace\transformed\customview-poolingcontainer-1.0.0\res
+com.compose.news.app-lifecycle-process-2.10.0-46 D:\.gradle\caches\9.2.1\transforms\b94cef83c158978d117c349f6a0e147a\workspace\transformed\lifecycle-process-2.10.0\res
+com.compose.news.app-annotation-experimental-1.4.1-47 D:\.gradle\caches\9.2.1\transforms\badeb2336de6f138f3bb98c743c379ed\workspace\transformed\annotation-experimental-1.4.1\res
+com.compose.news.app-lifecycle-runtime-48 D:\.gradle\caches\9.2.1\transforms\bbe8c475cfddeb8c119ae72d7fd7d6f0\workspace\transformed\lifecycle-runtime\res
+com.compose.news.app-activity-compose-1.12.0-49 D:\.gradle\caches\9.2.1\transforms\c085c049c0a329b8b5b6c97e95c5e7fb\workspace\transformed\activity-compose-1.12.0\res
+com.compose.news.app-ui-graphics-50 D:\.gradle\caches\9.2.1\transforms\c1b7f6eb1119b3e78787aa2bb68964f5\workspace\transformed\ui-graphics\res
+com.compose.news.app-material-51 D:\.gradle\caches\9.2.1\transforms\c4eb2c8e85118defe75d592a0dbe662a\workspace\transformed\material\res
+com.compose.news.app-navigation-runtime-ktx-2.5.1-52 D:\.gradle\caches\9.2.1\transforms\c8f0d6bc578d357897939a067d7cc396\workspace\transformed\navigation-runtime-ktx-2.5.1\res
+com.compose.news.app-material-icons-core-release-53 D:\.gradle\caches\9.2.1\transforms\ca5445379917e709abce62157b9afc60\workspace\transformed\material-icons-core-release\res
+com.compose.news.app-ui-text-54 D:\.gradle\caches\9.2.1\transforms\cd308b5161c2db82f9031f391bc51641\workspace\transformed\ui-text\res
+com.compose.news.app-hilt-navigation-1.2.0-55 D:\.gradle\caches\9.2.1\transforms\cdb3ea175ec0285b4322db40d3114162\workspace\transformed\hilt-navigation-1.2.0\res
+com.compose.news.app-activity-ktx-1.12.0-56 D:\.gradle\caches\9.2.1\transforms\dbafd7e286f48b5360cd2e80c9c8f1c9\workspace\transformed\activity-ktx-1.12.0\res
+com.compose.news.app-navigationevent-57 D:\.gradle\caches\9.2.1\transforms\e3bac90576a894125ebda1e12ae5a1ee\workspace\transformed\navigationevent\res
+com.compose.news.app-graphics-path-1.0.1-58 D:\.gradle\caches\9.2.1\transforms\f13e83513f15921d31593a36e7be7b45\workspace\transformed\graphics-path-1.0.1\res
+com.compose.news.app-appcompat-resources-1.6.1-59 D:\.gradle\caches\9.2.1\transforms\f1be380b3cbf6063b5b0bf2bf65fcdde\workspace\transformed\appcompat-resources-1.6.1\res
+com.compose.news.app-coil-base-2.7.0-60 D:\.gradle\caches\9.2.1\transforms\f46b713a154f6c02eb2e8fc4d39cdeb6\workspace\transformed\coil-base-2.7.0\res
+com.compose.news.app-window-1.5.0-61 D:\.gradle\caches\9.2.1\transforms\f5e5efb0f9b5d58403b26e0826a5c002\workspace\transformed\window-1.5.0\res
+com.compose.news.app-lifecycle-livedata-core-2.10.0-62 D:\.gradle\caches\9.2.1\transforms\fb792acd06830b051cb32394b98b72d4\workspace\transformed\lifecycle-livedata-core-2.10.0\res
+com.compose.news.app-ui-tooling-63 D:\.gradle\caches\9.2.1\transforms\fe87c881c8e2cb755911868e93777167\workspace\transformed\ui-tooling\res
+com.compose.news.app-pngs-64 D:\02study\02compose demo\09-news\app\build\generated\res\pngs\debug
+com.compose.news.app-updated_navigation_xml-65 D:\02study\02compose demo\09-news\app\build\generated\updated_navigation_xml\debug
+com.compose.news.app-packageDebugResources-66 D:\02study\02compose demo\09-news\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.compose.news.app-packageDebugResources-67 D:\02study\02compose demo\09-news\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.compose.news.app-debug-68 D:\02study\02compose demo\09-news\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.compose.news.app-debug-69 D:\02study\02compose demo\09-news\app\src\debug\res
+com.compose.news.app-main-70 D:\02study\02compose demo\09-news\app\src\main\res

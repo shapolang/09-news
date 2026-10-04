@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.compose.news.ui.auth.AuthViewModel

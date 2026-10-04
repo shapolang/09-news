@@ -1,0 +1,20 @@
+com.compose.news
+color horizon_seed
+color horizon_splash
+color ic_launcher_background
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string demo_account_hint
+string nav_bookmarks
+string nav_home
+string nav_profile
+string nav_search
+string offline_banner
+style Theme_HorizonNews
+style Theme_HorizonNews_Splash
+xml backup_rules
+xml data_extraction_rules
+xml network_security_config

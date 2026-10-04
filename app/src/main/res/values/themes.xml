@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HorizonNews" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <!-- 必须继承 Theme.SplashScreen，installSplashScreen() 才会拿到合法属性；
+         否则在 Android 12+ 上可能用错误的窗口上下文去读图标，触发 AppOps 空包名。 -->
+    <style name="Theme.HorizonNews.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/horizon_splash</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.HorizonNews</item>
+    </style>
+</resources>
